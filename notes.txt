@@ -1,0 +1,4 @@
+welcome to class A1 
+
+
+python is a high level language
